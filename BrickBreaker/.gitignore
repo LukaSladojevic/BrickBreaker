@@ -1,0 +1,6 @@
+packages/
+**/packages/*
+[Bb]in/
+[Oo]bj/
+[Xx]64/
+.vs/
